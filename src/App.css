@@ -1,0 +1,197 @@
+.navbar {
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 0px;
+  color: black;
+  z-index: 9999;
+}
+
+.navTopic{
+  position: fixed;
+  top: 0;
+  left: 100px;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 30px;
+  
+}
+.user{
+  position: fixed;
+  top: 0;
+  left: 1030px;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 30px;
+  color: #54dba3;
+}
+
+.notification{
+  position: fixed;
+  top: 0;
+  left: 300px;
+  margin-top: 10px;
+  font-size: 20px;  
+}
+
+.appLog{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: url("./Images/istockphoto-1368145763-170667a.jpg");
+  background-size: cover;
+}
+.home{
+  position: fixed;
+  top: 80px;
+  width: 110vw;
+  height: 95vh;
+  background: url("./Images/pexels-julia-m-cameron-4145146.jpg");
+  background-size: cover;
+  
+}
+
+.courses{
+  position: fixed;
+  top: 80px;
+  width: 110vw;
+  height: 95vh;
+  background-color: rgb(250, 250, 250);
+  background-size: cover;
+  
+}
+
+.detalis1{
+  position: fixed;
+  top: 200px;
+  left: 100px;
+  font-size: 40px;
+  color: #ffffff;
+  font-weight: bolder;
+}
+
+.detalis2{
+  position: fixed;
+  top: 350px;
+  left: 100px;
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: bolder;
+}
+
+.button1 {
+  background-color: rgba(52, 152, 219, 0); /* Replace with your desired RGB values and alpha */
+  color: #fff; /* Set the text color */
+  top: 350px;
+  left : 100px;
+  border: 2px solid #ffffff;
+}
+
+.home-card{
+  margin-left: 200px;
+  margin-right: 230px;
+  display: flex;
+}
+
+.dashboard-card1{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 100;
+  background: url("./Images/download.jfif");
+  background-size: cover;
+}
+.dashboard-card2{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 100;
+  background: url("./Images/download1.jfif");
+  background-size: cover;
+}
+.dashboard-card3{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 100;
+  background: url("./Images/download2.jfif");
+  background-size: cover;
+}
+.title{
+  margin-left: 40%;
+}
+
+.desc{
+  font-size: 20px;
+  margin-left: 37%;
+}
+
+.details{
+  margin-top: 100px;
+  color: #86ddec;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.paragraph{
+  margin-left: 150px;
+  color: white;
+  font-size: 15px;
+
+}
+
+.abouttitle{
+  margin-left: 350px;
+}
+
+.textcard{
+  margin-left: 25px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.teacher{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 100;
+  background: url("./Images/teacher.jfif");
+  background-size: cover;
+}
+
+.dashboard-card{
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-size: larger;
+  width: 90%;
+  height: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 100;
+  background-color: #d6eef0;
+  border-color: black;
+}
+
+.link{
+  color:rgb(53, 6, 6);
+  margin-left: 18px;
+}
